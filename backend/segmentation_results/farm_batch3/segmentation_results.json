@@ -1,0 +1,31 @@
+{
+  "batch_name": "farm_batch3",
+  "segmentation_timestamp": "2025-11-30T22:24:37.847004",
+  "results": [
+    {
+      "id": 1,
+      "name": "processed_Capture d'\u00e9cran 2025-11-30 153725.png",
+      "segmented": "segmented_processed_Capture d'\u00e9cran 2025-11-30 153725.png",
+      "defects": [
+        "Surface Erosion"
+      ],
+      "confidence": 0.9135,
+      "iou": 0.8637,
+      "dice": 0.8977,
+      "precision": 0.9135,
+      "recall": 0.9484,
+      "defect_area": 3622.0,
+      "has_defect": true
+    }
+  ],
+  "overall_metrics": {
+    "avg_iou": 0.8637,
+    "avg_dice": 0.8977,
+    "avg_precision": 0.9135,
+    "avg_recall": 0.9484,
+    "total_images": 1,
+    "total_defects": 1,
+    "defect_rate": 100.0
+  },
+  "status": "complete"
+}

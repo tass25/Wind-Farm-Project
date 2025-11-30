@@ -1,0 +1,55 @@
+{
+  "batch_name": "farm_batch2",
+  "preprocessing_timestamp": "2025-11-30T22:24:02.840701",
+  "total_images": 3,
+  "processed_images": 3,
+  "images": [
+    {
+      "original": "Capture d'\u00e9cran 2025-11-29 125300.png",
+      "processed": "processed_Capture d'\u00e9cran 2025-11-29 125300.png",
+      "original_size": [
+        380,
+        380
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "format": null
+    },
+    {
+      "original": "Capture d'\u00e9cran 2025-11-30 153725.png",
+      "processed": "processed_Capture d'\u00e9cran 2025-11-30 153725.png",
+      "original_size": [
+        383,
+        401
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "format": null
+    },
+    {
+      "original": "Capture d'\u00e9cran 2025-11-30 153735.png",
+      "processed": "processed_Capture d'\u00e9cran 2025-11-30 153735.png",
+      "original_size": [
+        430,
+        406
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "format": null
+    }
+  ],
+  "weather_stats": {
+    "files_processed": 1,
+    "average_wind_speed": "8.2 m/s",
+    "temperature_range": "15-25\u00b0C",
+    "humidity": "65%",
+    "data_points": 300
+  },
+  "status": "complete"
+}

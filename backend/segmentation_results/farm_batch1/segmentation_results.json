@@ -1,0 +1,61 @@
+{
+  "batch_name": "farm_batch1",
+  "segmentation_timestamp": "2025-11-30T18:50:56.281278",
+  "results": [
+    {
+      "id": 1,
+      "name": "processed_Capture d'\u00e9cran 2025-11-29 125300.png",
+      "segmented": "segmented_processed_Capture d'\u00e9cran 2025-11-29 125300.png",
+      "defects": [
+        "Minor Damage"
+      ],
+      "confidence": 0.9082,
+      "iou": 0.8729,
+      "dice": 0.8667,
+      "precision": 0.9082,
+      "recall": 0.9317,
+      "defect_area": 2034.0,
+      "has_defect": true
+    },
+    {
+      "id": 2,
+      "name": "processed_Capture d'\u00e9cran 2025-11-30 153725.png",
+      "segmented": "segmented_processed_Capture d'\u00e9cran 2025-11-30 153725.png",
+      "defects": [
+        "Surface Erosion"
+      ],
+      "confidence": 0.8957,
+      "iou": 0.8513,
+      "dice": 0.8848,
+      "precision": 0.8957,
+      "recall": 0.9533,
+      "defect_area": 3622.0,
+      "has_defect": true
+    },
+    {
+      "id": 3,
+      "name": "processed_Capture d'\u00e9cran 2025-11-30 153735.png",
+      "segmented": "segmented_processed_Capture d'\u00e9cran 2025-11-30 153735.png",
+      "defects": [
+        "No Defects"
+      ],
+      "confidence": 0.98,
+      "iou": 0.95,
+      "dice": 0.97,
+      "precision": 0.98,
+      "recall": 0.0,
+      "defect_area": 0.0,
+      "has_defect": false
+    }
+  ],
+  "overall_metrics": {
+    "avg_iou": 0.8914,
+    "avg_dice": 0.9071,
+    "avg_precision": 0.928,
+    "avg_recall": 0.6283,
+    "total_images": 3,
+    "total_defects": 2,
+    "defect_rate": 66.67
+  },
+  "status": "complete"
+}

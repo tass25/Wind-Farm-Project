@@ -1,0 +1,29 @@
+{
+  "batch_name": "farm_batch3",
+  "preprocessing_timestamp": "2025-11-30T22:34:22.830578",
+  "total_images": 1,
+  "processed_images": 1,
+  "images": [
+    {
+      "original": "Capture d'\u00e9cran 2025-11-30 153725.png",
+      "processed": "processed_Capture d'\u00e9cran 2025-11-30 153725.png",
+      "original_size": [
+        383,
+        401
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "format": null
+    }
+  ],
+  "weather_stats": {
+    "files_processed": 1,
+    "average_wind_speed": "8.2 m/s",
+    "temperature_range": "15-25\u00b0C",
+    "humidity": "65%",
+    "data_points": 100
+  },
+  "status": "complete"
+}
