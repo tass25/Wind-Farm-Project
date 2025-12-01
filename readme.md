@@ -34,7 +34,7 @@ This project uses **U-Net for segmentation of wind turbine blades**, identifies 
 
 ### 1️⃣ Pipeline Overview
 ![Pipeline Diagram](./workflow.png)  
-*Shows full workflow: Kaggle dataset → RoboFlow annotation → mask generation → augmentation → U-Net training → DDPM synthetic data → W&B tracking → FastAPI inference.*
+*Shows full workflow: From raw data to inference.*
 
 ### 2️⃣ U-Net Architecture
 ![U-Net Diagram](./unet_architecture.png)  
