@@ -1,7 +1,7 @@
 # 🌬️ Wind Blade Segmentation & Monitoring System
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Computer%20Vision-U-Net-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ComputerVision-U--Net-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/YOLOv8-RoboFlow-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/DDPM-Diffusion-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
@@ -116,8 +116,9 @@ Faulty      653
 ```
 
 **MLOps Tracking:**  
-### All experiments, metrics, and training logs are tracked with Weights & Biases for reproducibility.
-Note: While U-Net experiments were initially run on Colab (using GPU), subsequent runs on Kaggle encountered limitations, and Weights & Biases tracking was not available there.
+All experiments, metrics, and training logs are tracked with **Weights & Biases** for reproducibility.  
+**Note:** While U-Net experiments were initially run on **Colab** (using GPU), subsequent runs on **Kaggle** encountered limitations, and **Weights & Biases tracking was not available there**.
+
 ---
 
 ## 🔧 Installation
