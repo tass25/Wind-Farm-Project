@@ -37,7 +37,7 @@ This project uses **U-Net for segmentation of wind turbine blades**, identifies 
 *Shows full workflow: Kaggle dataset → RoboFlow annotation → mask generation → augmentation → U-Net training → DDPM synthetic data → W&B tracking → FastAPI inference.*
 
 ### 2️⃣ U-Net Architecture
-![U-Net Diagram](.unet_architecture.png)  
+![U-Net Diagram](./unet_architecture.png)  
 *Standard U-Net with skip connections for precise blade segmentation.*
 
 ---
@@ -116,7 +116,7 @@ Faulty      653
 ```
 
 **MLOps Tracking:**  
-All experiments, metrics, and training logs are tracked with Weights & Biases for reproducibility.
+### All experiments, metrics, and training logs are tracked with Weights & Biases for reproducibility.
 Note: While U-Net experiments were initially run on Colab (using GPU), subsequent runs on Kaggle encountered limitations, and Weights & Biases tracking was not available there.
 ---
 
