@@ -74,7 +74,7 @@ This project uses **U-Net for segmentation of wind turbine blades**, identifies 
 |-------|-------------|
 | **Frontend** | React, Tailwind CSS , Vite|
 | **Backend** | FastAPI, Uvicorn |
-| **ML / DL** | PyTorch, U-Net, DDPM, Albumentations |
+| **ML / DL** | PyTorch, U-Net, DDPM |
 | **Annotation** | RoboFlow, YOLOv8 |
 | **MLOps** | Weights & Biases |
 | **Visualization** | Matplotlib, PIL, OpenCV |
