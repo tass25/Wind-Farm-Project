@@ -206,7 +206,9 @@ npm start
 - Extend pipeline for **real-time drone inspection**.  
 - Integrate **predictive maintenance models** based on segmentation masks.  
 - Expand dataset with **additional DDPM-generated samples** to improve rare fault detection.  
+## 🏭 Demo
 
+**watch now:** [click here to watch it :](https://drive.google.com/file/d/14WQysJKPJNG5KbNRjhuraM-NURfgpYHy/view?usp=sharing)
 ---
 
 </div>
