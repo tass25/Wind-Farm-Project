@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 Project Overview
+## 🚀 Project Overview  
 
 Wind turbines require **regular inspection** to ensure efficiency and safety. Manual inspection is **time-consuming and error-prone**, especially for large wind farms.  
 
